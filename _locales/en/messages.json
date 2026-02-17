@@ -1,0 +1,208 @@
+{
+    "extName": {
+        "message": "Smart Save Image – PNG, JPG, WebP, Resize & Social Ready",
+        "description": "Extension name"
+    },
+    "extDescription": {
+        "message": "Right-click any image → instantly save as PNG, JPG, WebP with resize, optimize & social media presets. 100% local processing.",
+        "description": "Extension description"
+    },
+    "menuParent": {
+        "message": "Save Image As",
+        "description": "Parent context menu title"
+    },
+    "menuPng": {
+        "message": "Save as PNG",
+        "description": "Context menu item"
+    },
+    "menuJpg": {
+        "message": "Save as JPG",
+        "description": "Context menu item"
+    },
+    "menuWebp": {
+        "message": "Save as WebP",
+        "description": "Context menu item"
+    },
+    "menuPngResize": {
+        "message": "PNG (Resize 1080px)",
+        "description": "Context menu item"
+    },
+    "menuJpgResize": {
+        "message": "JPG (Resize 720px)",
+        "description": "Context menu item"
+    },
+    "menuCustomResize": {
+        "message": "Custom Resize...",
+        "description": "Context menu item"
+    },
+    "menuInstagramPost": {
+        "message": "Instagram Post (1080×1080)",
+        "description": "Context menu item"
+    },
+    "menuInstagramStory": {
+        "message": "Instagram Story (1080×1920)",
+        "description": "Context menu item"
+    },
+    "menuTiktok": {
+        "message": "TikTok 9:16 (1080×1920)",
+        "description": "Context menu item"
+    },
+    "menuYoutube": {
+        "message": "YouTube Thumbnail (1280×720)",
+        "description": "Context menu item"
+    },
+    "popupTitle": {
+        "message": "Smart Save Image",
+        "description": "Popup header title"
+    },
+    "popupSubtitle": {
+        "message": "Convert, Resize & Optimize",
+        "description": "Popup header subtitle"
+    },
+    "tabQuick": {
+        "message": "⚡ Quick",
+        "description": "Tab label"
+    },
+    "tabBatch": {
+        "message": "📦 Batch",
+        "description": "Tab label"
+    },
+    "tabSettings": {
+        "message": "⚙️ Settings",
+        "description": "Tab label"
+    },
+    "convertFromUrl": {
+        "message": "🔗 Convert from URL",
+        "description": "Card title"
+    },
+    "pasteUrlPlaceholder": {
+        "message": "Paste image URL here...",
+        "description": "Input placeholder"
+    },
+    "convertAndSave": {
+        "message": "Convert & Save",
+        "description": "Button label"
+    },
+    "pageImages": {
+        "message": "🖼️ Page Images",
+        "description": "Card title"
+    },
+    "scanning": {
+        "message": "Scanning...",
+        "description": "Badge text while scanning"
+    },
+    "imagesFound": {
+        "message": "$COUNT$ images found",
+        "description": "Badge text after scan",
+        "placeholders": {
+            "COUNT": {
+                "content": "$1"
+            }
+        }
+    },
+    "rescan": {
+        "message": "🔄 Rescan",
+        "description": "Button label"
+    },
+    "batchSaveAll": {
+        "message": "📦 Batch Save All Images",
+        "description": "Card title"
+    },
+    "batchDesc": {
+        "message": "Save all images from current page",
+        "description": "Card description"
+    },
+    "batchWebp": {
+        "message": "All as WebP",
+        "description": "Batch button label"
+    },
+    "batchPng": {
+        "message": "All as PNG",
+        "description": "Batch button label"
+    },
+    "batchResize1080": {
+        "message": "Resize 1080px",
+        "description": "Batch button label"
+    },
+    "batchInstagram": {
+        "message": "Instagram Ready",
+        "description": "Batch button label"
+    },
+    "batchYoutube": {
+        "message": "YouTube Thumb",
+        "description": "Batch button label"
+    },
+    "batchZip": {
+        "message": "Download ZIP",
+        "description": "Batch button label"
+    },
+    "settingsTitle": {
+        "message": "⚙️ Preferences",
+        "description": "Settings card title"
+    },
+    "settingQuality": {
+        "message": "Default Quality",
+        "description": "Setting label"
+    },
+    "settingResizeBehavior": {
+        "message": "Resize Behavior",
+        "description": "Setting label"
+    },
+    "settingCrop": {
+        "message": "Center Crop",
+        "description": "Select option"
+    },
+    "settingFit": {
+        "message": "Fit (Letterbox)",
+        "description": "Select option"
+    },
+    "settingShowSummary": {
+        "message": "Show Save Summary",
+        "description": "Setting label"
+    },
+    "settingSocialPresets": {
+        "message": "Social Presets in Menu",
+        "description": "Setting label"
+    },
+    "localProcessing": {
+        "message": "🔒 100% Local Processing",
+        "description": "Footer info"
+    },
+    "noTracking": {
+        "message": "No data sent anywhere. No login. No tracking.",
+        "description": "Footer info"
+    },
+    "notifSavedAs": {
+        "message": "✅ Saved as $FORMAT$",
+        "description": "Notification title",
+        "placeholders": {
+            "FORMAT": {
+                "content": "$1"
+            }
+        }
+    },
+    "customResizeTitle": {
+        "message": "📐 Custom Resize",
+        "description": "Resize window title"
+    },
+    "widthLabel": {
+        "message": "Width (px)",
+        "description": "Input label"
+    },
+    "heightLabel": {
+        "message": "Height (px)",
+        "description": "Input label"
+    },
+    "maintainRatio": {
+        "message": "Maintain Aspect Ratio",
+        "description": "Toggle label"
+    },
+    "formatLabel": {
+        "message": "Format",
+        "description": "Select label"
+    },
+    "saveImage": {
+        "message": "💾 Save Image",
+        "description": "Button label"
+    }
+}

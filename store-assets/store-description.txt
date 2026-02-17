@@ -1,0 +1,66 @@
+Smart Save Image – Convert, Resize & Optimize
+
+Right-click any image → instantly save as PNG, JPG, or WebP. Resize, optimize, and export social-ready images — all processed locally on your device.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚡ KEY FEATURES
+
+🖱️ Right-Click Smart Save
+Right-click any image on the web and choose your preferred format — PNG, JPG, or WebP — directly from the context menu. No extra steps.
+
+📐 Resize While Saving
+Save images at preset sizes (1080px, 720px) or open the Custom Resize window to enter exact dimensions with aspect ratio locking.
+
+📱 Social Media Presets
+One-click export for popular platforms:
+• Instagram Post — 1080 × 1080
+• Instagram Story — 1080 × 1920
+• TikTok — 1080 × 1920  
+• YouTube Thumbnail — 1280 × 720
+
+📦 Batch Save All Images
+Scan the current page and batch-convert every image at once. Choose format, resize, or download everything as a single ZIP file.
+
+🔗 Convert from URL
+Paste any image URL into the popup, select your format, and save — no need to visit the page first.
+
+🎯 Smart Optimization
+Automatic quality optimization with a clear before/after summary showing file size reduction.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔒 100% LOCAL PROCESSING
+
+Your images never leave your device. Smart Save Image processes everything locally using the browser's built-in Canvas API. No uploads, no servers, no tracking.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 HOW IT WORKS
+
+1. Right-click any image on a webpage
+2. Select "Save Image As" from the context menu
+3. Choose your format, size, or social preset
+4. Done — image saved to your Downloads folder
+
+Or use the popup for batch operations and URL conversion.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ PERFECT FOR
+
+• Content creators preparing images for social media
+• Web designers saving reference images in specific formats
+• Bloggers optimizing images for faster page loads
+• Anyone who wants quick format conversion without online tools
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛡️ PERMISSIONS EXPLAINED
+
+• "Read and change all your data on all websites" — Required to fetch and process images from any webpage
+• "Manage your downloads" — Required to save converted images to your device
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Free • No Ads • No Account Required • Open Source

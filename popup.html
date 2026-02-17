@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Save Image</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+
+<body>
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-brand">
+                <img src="icons/icon32.png" alt="Logo" class="header-logo">
+                <div>
+                    <h1 class="header-title">Smart Save Image</h1>
+                    <p class="header-subtitle">Convert, Resize & Optimize</p>
+                </div>
+            </div>
+        </header>
+
+        <!-- Tab Navigation -->
+        <nav class="tabs">
+            <button class="tab active" data-tab="quick">⚡ Quick</button>
+            <button class="tab" data-tab="batch">📦 Batch</button>
+            <button class="tab" data-tab="settings">⚙️ Settings</button>
+        </nav>
+
+        <!-- Quick Actions Tab -->
+        <section id="tab-quick" class="tab-content active">
+            <!-- Convert from URL -->
+            <div class="card">
+                <h3 class="card-title">🔗 Convert from URL</h3>
+                <div class="url-input-group">
+                    <input type="text" id="image-url-input" placeholder="Paste image URL here..." class="input">
+                    <select id="url-format-select" class="select">
+                        <option value="png">PNG</option>
+                        <option value="jpeg">JPG</option>
+                        <option value="webp">WebP</option>
+                    </select>
+                </div>
+                <button id="btn-convert-url" class="btn btn-primary">
+                    <span class="btn-icon">📥</span> Convert & Save
+                </button>
+            </div>
+
+            <!-- Quick Save All -->
+            <div class="card">
+                <h3 class="card-title">🖼️ Page Images</h3>
+                <div class="image-count-row">
+                    <span id="image-count" class="badge">Scanning...</span>
+                    <button id="btn-scan" class="btn btn-ghost btn-sm">🔄 Rescan</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Batch Actions Tab -->
+        <section id="tab-batch" class="tab-content">
+            <div class="card">
+                <h3 class="card-title">📦 Batch Save All Images</h3>
+                <p class="card-desc">Save all images from current page</p>
+                <div class="batch-grid">
+                    <button class="btn btn-batch" data-batch="webp">
+                        <span class="batch-icon">🌐</span>
+                        <span class="batch-label">All as WebP</span>
+                    </button>
+                    <button class="btn btn-batch" data-batch="png">
+                        <span class="batch-icon">🖼️</span>
+                        <span class="batch-label">All as PNG</span>
+                    </button>
+                    <button class="btn btn-batch" data-batch="resize-1080">
+                        <span class="batch-icon">📐</span>
+                        <span class="batch-label">Resize 1080px</span>
+                    </button>
+                    <button class="btn btn-batch" data-batch="instagram">
+                        <span class="batch-icon">📸</span>
+                        <span class="batch-label">Instagram Ready</span>
+                    </button>
+                    <button class="btn btn-batch" data-batch="youtube">
+                        <span class="batch-icon">▶️</span>
+                        <span class="batch-label">YouTube Thumb</span>
+                    </button>
+                    <button class="btn btn-batch" data-batch="zip">
+                        <span class="batch-icon">📁</span>
+                        <span class="batch-label">Download ZIP</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Progress -->
+            <div id="batch-progress" class="card" style="display:none;">
+                <div class="progress-header">
+                    <span id="progress-text">Processing...</span>
+                    <span id="progress-count">0/0</span>
+                </div>
+                <div class="progress-bar">
+                    <div id="progress-fill" class="progress-fill"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Settings Tab -->
+        <section id="tab-settings" class="tab-content">
+            <div class="card">
+                <h3 class="card-title">⚙️ Preferences</h3>
+
+                <div class="setting-row">
+                    <label class="setting-label">Default Quality</label>
+                    <div class="setting-control">
+                        <input type="range" id="setting-quality" min="50" max="100" value="85" class="range">
+                        <span id="quality-value" class="setting-value">85%</span>
+                    </div>
+                </div>
+
+                <div class="setting-row">
+                    <label class="setting-label">Resize Behavior</label>
+                    <div class="setting-control">
+                        <select id="setting-resize-behavior" class="select">
+                            <option value="crop">Center Crop</option>
+                            <option value="fit">Fit (Letterbox)</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="setting-row">
+                    <label class="setting-label">Show Save Summary</label>
+                    <div class="setting-control">
+                        <label class="toggle">
+                            <input type="checkbox" id="setting-show-summary" checked>
+                            <span class="toggle-slider"></span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="setting-row">
+                    <label class="setting-label">Social Presets in Menu</label>
+                    <div class="setting-control">
+                        <label class="toggle">
+                            <input type="checkbox" id="setting-social-presets" checked>
+                            <span class="toggle-slider"></span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card card-info">
+                <p>🔒 100% Local Processing</p>
+                <p>No data sent anywhere. No login. No tracking.</p>
+                <p class="version">v1.0.0</p>
+            </div>
+        </section>
+    </div>
+
+    <script src="lib/jszip.min.js"></script>
+    <script src="popup.js"></script>
+</body>
+
+</html>
