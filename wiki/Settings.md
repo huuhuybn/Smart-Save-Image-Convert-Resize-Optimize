@@ -56,3 +56,9 @@ Your preferences are stored locally in Chrome's storage. They persist across bro
 ---
 
 ### 💡 Want more settings? [Submit a Feature Request →](https://github.com/huuhuybn/Smart-Save-Image-Convert-Resize-Optimize/issues/new?template=feature_request.md&labels=enhancement)
+
+---
+
+<p align="center">
+  <a href="https://miconvert.com"><strong>⚡ Powered by MiConvert.com</strong></a> — Online File Converter
+</p>

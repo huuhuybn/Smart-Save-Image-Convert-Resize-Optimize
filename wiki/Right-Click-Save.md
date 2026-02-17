@@ -61,3 +61,9 @@ The fastest way to save any image in your preferred format.
 ### 🐛 Image not saving?
 
 Check the [FAQ](FAQ) or [report a bug](https://github.com/huuhuybn/Smart-Save-Image-Convert-Resize-Optimize/issues/new?template=bug_report.md&labels=bug).
+
+---
+
+<p align="center">
+  <a href="https://miconvert.com"><strong>⚡ Powered by MiConvert.com</strong></a> — Online File Converter
+</p>

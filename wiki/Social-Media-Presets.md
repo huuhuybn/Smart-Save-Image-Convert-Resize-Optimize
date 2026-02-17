@@ -53,3 +53,9 @@ Social presets use the **resize behavior** set in your [Settings](Settings):
 ---
 
 ### 💖 Loving these presets? [Leave a review on Chrome Web Store ⭐](https://chromewebstore.google.com/detail/smart-save-image/YOUR_EXTENSION_ID)
+
+---
+
+<p align="center">
+  <a href="https://miconvert.com"><strong>⚡ Powered by MiConvert.com</strong></a> — Online File Converter
+</p>

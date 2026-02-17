@@ -83,3 +83,9 @@ Save Image As  ▸
 ### 💖 Love this extension?
 
 Please consider [donating](Home#-donate) or leaving a [⭐ review on Chrome Web Store](https://chromewebstore.google.com/detail/smart-save-image/YOUR_EXTENSION_ID) — it helps a lot!
+
+---
+
+<p align="center">
+  <a href="https://miconvert.com"><strong>⚡ Powered by MiConvert.com</strong></a> — Online File Converter
+</p>

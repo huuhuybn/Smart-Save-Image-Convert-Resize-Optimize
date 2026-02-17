@@ -78,5 +78,7 @@ We read every suggestion! Your feedback directly shapes future updates.
 ---
 
 <p align="center">
+  <a href="https://miconvert.com"><strong>⚡ Powered by MiConvert.com</strong></a><br>
+  <sub>Online File Converter — Convert images, videos, documents & more</sub><br><br>
   Made with ❤️ by <a href="https://github.com/huuhuybn">huuhuybn</a>
 </p>

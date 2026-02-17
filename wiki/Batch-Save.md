@@ -53,3 +53,9 @@ The **⚡ Quick** tab also shows all detected images on the current page:
 ---
 
 ### 🐛 Still having issues? [Report a Bug →](https://github.com/huuhuybn/Smart-Save-Image-Convert-Resize-Optimize/issues/new?template=bug_report.md&labels=bug)
+
+---
+
+<p align="center">
+  <a href="https://miconvert.com"><strong>⚡ Powered by MiConvert.com</strong></a> — Online File Converter
+</p>

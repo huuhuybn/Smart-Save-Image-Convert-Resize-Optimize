@@ -83,3 +83,9 @@ Chrome extensions cannot run on internal pages like `chrome://`, `chrome-extensi
   📝 <a href="https://chromewebstore.google.com/detail/smart-save-image/YOUR_EXTENSION_ID">Reviewing on Chrome Web Store</a> &nbsp;•&nbsp;
   ☕ <a href="Home#-donate">Donating</a>
 </p>
+
+---
+
+<p align="center">
+  <a href="https://miconvert.com"><strong>⚡ Powered by MiConvert.com</strong></a> — Online File Converter
+</p>

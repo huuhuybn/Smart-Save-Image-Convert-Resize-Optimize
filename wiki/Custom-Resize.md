@@ -60,3 +60,9 @@ Controlled in [Settings](Settings):
 ---
 
 ### 💖 Found this useful? Please consider [donating](Home#-donate) to support development!
+
+---
+
+<p align="center">
+  <a href="https://miconvert.com"><strong>⚡ Powered by MiConvert.com</strong></a> — Online File Converter
+</p>

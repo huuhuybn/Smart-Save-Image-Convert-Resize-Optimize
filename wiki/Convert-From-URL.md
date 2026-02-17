@@ -43,3 +43,9 @@ Save and convert any image by simply pasting its URL — no need to visit the pa
 ---
 
 ### 💡 Have a feature suggestion? [Share your idea →](https://github.com/huuhuybn/Smart-Save-Image-Convert-Resize-Optimize/issues/new?template=feature_request.md&labels=enhancement)
+
+---
+
+<p align="center">
+  <a href="https://miconvert.com"><strong>⚡ Powered by MiConvert.com</strong></a> — Online File Converter
+</p>

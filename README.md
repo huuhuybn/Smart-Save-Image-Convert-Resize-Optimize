@@ -303,6 +303,11 @@ This project is free and open source.
 ---
 
 <p align="center">
+  <a href="https://miconvert.com"><strong>⚡ Powered by MiConvert.com</strong></a><br>
+  <sub>Online File Converter — Convert images, videos, documents & more</sub>
+</p>
+
+<p align="center">
   Made with ❤️ by <a href="https://github.com/huuhuybn">huuhuybn</a><br>
   <sub>Free • No Ads • No Account Required • Open Source</sub>
 </p>
